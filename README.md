@@ -1,4 +1,4 @@
-#Notes
+# Notes
 Merupakan submission tugas akhir dari Sanbercode (ReactJS Web Front-End).
 
 # Getting Started with Create React App
