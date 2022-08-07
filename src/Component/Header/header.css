@@ -1,0 +1,19 @@
+.logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 19px 24px 19px 0;
+}
+
+.login-section{
+    float: right;
+    width: 120px;
+    height: 31px;
+}
+
+.login-section button {
+    width: 110px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
